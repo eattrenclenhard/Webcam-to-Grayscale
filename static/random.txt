@@ -1,0 +1,6 @@
+fjkdjfd
+jfkdjfd
+jfldjfkdl
+
+http://localhost:8501/app/static/random.txt
+static file serving
